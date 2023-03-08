@@ -24,4 +24,5 @@ filename as template : Group(A-J)_ConceptName.pdf
 Edit this Readme.md by attach link of your figma design.
 
 Paste you Figma designe here : 
-Group Aphabet [A-J]
+Group C
+https://www.figma.com/file/SeeTWSfaIW2vjmKkGcHE9u/exercise-app?node-id=0%3A1&t=rMsWp826ZAtoTuB9-1
